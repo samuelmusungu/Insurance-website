@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+body {
+  margin: 0;
+  font-family: "Montserrat", "sans-serif";
+  background: #fff;
+}
+
+h2 {
+  background: #00CC80;
+  width: calc(100% - 1em);
+  display: block;
+  color: #fff;
+  border-radius: 20px;
+  padding: 0.5em;
+  text-decoration: none;
+  font-size: 1.5em;
+  margin: 3% auto 7%;
+  position: relative;
+  z-index: 4;
+  margin-left: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: 1.6em;
+  margin-left: 10px;
+  margin-right: 10px;
+}/*# sourceMappingURL=contacts.css.map */
